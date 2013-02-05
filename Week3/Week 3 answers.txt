@@ -1,0 +1,6 @@
+1: 581 files. ls -1 /usr/bin | wc -l
+2: init. I used top then pressed M to sort by memory usage
+3: UTC  date +%Z
+4: 52. I used more /etc/group | wc -l
+5: 0,1,1,2,3,5,8,13,21,34,55,89,144,233,377,610,987,1597,2584,4181   Using php 362.php  (i had to download a program to use this command so it outputted in terminal)
+Bonus: The Fibonacci sequence.
